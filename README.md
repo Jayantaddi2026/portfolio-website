@@ -118,15 +118,10 @@ Then visit: `http://localhost:5500`
 | 📍 Location | Durgapur, West Bengal, India |
  
 ---
- 
-## 📄 License
- 
-This project is open source and available under the [MIT License](LICENSE).
- 
----
+
  
 <div align="center">
-**⭐ If you like this portfolio, please give it a star! It means a lot. ⭐**
+** If you like this portfolio, please give it a star! It means a lot. **
  
 Made with ❤️ by **Jayant Addi**
  
